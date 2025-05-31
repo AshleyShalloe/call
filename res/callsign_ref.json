@@ -1,0 +1,1116 @@
+{
+    "Afghanistan": [
+        "^YA",
+        "^T6"
+    ],
+    "Albania (Republic of)": [
+        "^ZA"
+    ],
+    "Algeria (People's Democratic Republic of)": [
+        "^7W",
+        "^7T",
+        "^7R",
+        "^7U",
+        "^7X",
+        "^7Y",
+        "^7V"
+    ],
+    "Andorra (Principality of)": [
+        "^C3"
+    ],
+    "Angola (Republic of)": [
+        "^D3",
+        "^D2"
+    ],
+    "Antigua and Barbuda": [
+        "^V2"
+    ],
+    "Argentine Republic": [
+        "^L7",
+        "^L3",
+        "^LP",
+        "^L4",
+        "^AZ",
+        "^LT",
+        "^LR",
+        "^LS",
+        "^LU",
+        "^L6",
+        "^LW",
+        "^L2",
+        "^LV",
+        "^LO",
+        "^L8",
+        "^L9",
+        "^L5",
+        "^AY",
+        "^LQ"
+    ],
+    "Armenia (Republic of)": [
+        "^EK"
+    ],
+    "Australia": [
+        "^VM",
+        "^VI",
+        "^VN",
+        "^VL",
+        "^AX",
+        "^VK",
+        "^VZ",
+        "^VH",
+        "^VJ"
+    ],
+    "Austria": [
+        "^OE"
+    ],
+    "Azerbaijan (Republic of)": [
+        "^4K",
+        "^4J"
+    ],
+    "Bahamas (Commonwealth of the)": [
+        "^C6"
+    ],
+    "Bahrain (Kingdom of)": [
+        "^A9"
+    ],
+    "Bangladesh (People's Republic of)": [
+        "^S3",
+        "^S2"
+    ],
+    "Barbados": [
+        "^8P"
+    ],
+    "Belarus (Republic of)": [
+        "^EW",
+        "^EV",
+        "^EU"
+    ],
+    "Belgium": [
+        "^ON",
+        "^OQ",
+        "^OR",
+        "^OP",
+        "^OS",
+        "^OO",
+        "^OT"
+    ],
+    "Belize": [
+        "^V3"
+    ],
+    "Benin (Republic of)": [
+        "^TY"
+    ],
+    "Bhutan (Kingdom of)": [
+        "^A5"
+    ],
+    "Bolivia (Plurinational State of)": [
+        "^CP"
+    ],
+    "Bosnia and Herzegovina": [
+        "^E7"
+    ],
+    "Botswana (Republic of)": [
+        "^8O",
+        "^A2"
+    ],
+    "Brazil (Federative Republic of)": [
+        "^PP",
+        "^PU",
+        "^PQ",
+        "^PX",
+        "^PV",
+        "^ZX",
+        "^ZY",
+        "^PY",
+        "^PW",
+        "^PR",
+        "^ZW",
+        "^PT",
+        "^ZV",
+        "^ZZ",
+        "^PS"
+    ],
+    "Brunei Darussalam": [
+        "^V8"
+    ],
+    "Bulgaria (Republic of)": [
+        "^LZ"
+    ],
+    "Burkina Faso": [
+        "^XT"
+    ],
+    "Burundi (Republic of)": [
+        "^9U"
+    ],
+    "Cabo Verde (Republic of)": [
+        "^D4"
+    ],
+    "Cambodia (Kingdom of)": [
+        "^XU"
+    ],
+    "Cameroon (Republic of)": [
+        "^TJ"
+    ],
+    "Canada": [
+        "^CZ",
+        "^XJ",
+        "^VO",
+        "^CI",
+        "^VG",
+        "^CK",
+        "^VF",
+        "^CG",
+        "^VB",
+        "^VA",
+        "^VX",
+        "^CF",
+        "^VC",
+        "^VY",
+        "^XL",
+        "^CY",
+        "^CH",
+        "^XK",
+        "^XM",
+        "^VD",
+        "^XN",
+        "^CJ",
+        "^XO",
+        "^VE"
+    ],
+    "Central African Republic": [
+        "^TL"
+    ],
+    "Chad (Republic of)": [
+        "^TT"
+    ],
+    "Chile": [
+        "^CD",
+        "^3G",
+        "^CE",
+        "^XR",
+        "^CB",
+        "^CA",
+        "^CC",
+        "^XQ"
+    ],
+    "China (People's Republic of)": [
+        "^B",
+        "^3I",
+        "^3T",
+        "^3R",
+        "^3N",
+        "^3P",
+        "^3Q",
+        "^3S",
+        "^3H",
+        "^XS",
+        "^3U",
+        "^3O",
+        "^3K",
+        "^3L",
+        "^3M",
+        "^3J"
+    ],
+    "China (People's Republic of) - Hong Kong": [
+        "^VR"
+    ],
+    "China (People's Republic of) - Macao": [
+        "^XX"
+    ],
+    "Colombia (Republic of)": [
+        "^5K",
+        "^HK",
+        "^5J",
+        "^HJ"
+    ],
+    "Comoros (Union of the)": [
+        "^D6"
+    ],
+    "Congo (Republic of the)": [
+        "^TN"
+    ],
+    "Costa Rica": [
+        "^TI",
+        "^TE"
+    ],
+    "Croatia (Republic of)": [
+        "^9A"
+    ],
+    "Cuba": [
+        "^CO",
+        "^CM",
+        "^T4",
+        "^CL"
+    ],
+    "Cyprus (Republic of)": [
+        "^P3",
+        "^5B",
+        "^C4",
+        "^H2"
+    ],
+    "Czech Republic": [
+        "^OK",
+        "^OL"
+    ],
+    "C\u00f4te d'Ivoire (Republic of)": [
+        "^TU"
+    ],
+    "Democratic People's Republic of Korea": [
+        "^P8",
+        "^P6",
+        "^HM",
+        "^P7",
+        "^P5",
+        "^P9"
+    ],
+    "Democratic Republic of the Congo": [
+        "^9R",
+        "^9T",
+        "^9S",
+        "^9O",
+        "^9P",
+        "^9Q"
+    ],
+    "Denmark": [
+        "^OZ",
+        "^OW",
+        "^5P",
+        "^XP",
+        "^5Q",
+        "^OV",
+        "^OX",
+        "^OU",
+        "^OY"
+    ],
+    "Djibouti (Republic of)": [
+        "^J2"
+    ],
+    "Dominica (Commonwealth of)": [
+        "^J7"
+    ],
+    "Dominican Republic": [
+        "^HI"
+    ],
+    "Ecuador": [
+        "^HD",
+        "^HC"
+    ],
+    "Egypt (Arab Republic of)": [
+        "^6A",
+        "^SU",
+        "^6B",
+        "^SSA",
+        "^SSM",
+        "^SS[A-M]"
+    ],
+    "El Salvador (Republic of)": [
+        "^HU",
+        "^YS"
+    ],
+    "Equatorial Guinea (Republic of)": [
+        "^3C"
+    ],
+    "Eritrea": [
+        "^E3"
+    ],
+    "Estonia (Republic of)": [
+        "^ES"
+    ],
+    "Eswatini (Kingdom of)": [
+        "^3DM",
+        "^3DA",
+        "^3D[A-M]"
+    ],
+    "Ethiopia (Federal Democratic Republic of)": [
+        "^9E",
+        "^9F",
+        "^ET"
+    ],
+    "Fiji (Republic of)": [
+        "^3DZ",
+        "^3DN",
+        "^3D[N-Z]"
+    ],
+    "Finland": [
+        "^OJ",
+        "^OF",
+        "^OG",
+        "^OI",
+        "^OH"
+    ],
+    "France": [
+        "^F",
+        "^TW",
+        "^TV",
+        "^HY",
+        "^TP",
+        "^HX",
+        "^TX",
+        "^TQ",
+        "^HW",
+        "^TO",
+        "^TK",
+        "^TH",
+        "^TM"
+    ],
+    "Gabonese Republic": [
+        "^TR"
+    ],
+    "Gambia (Republic of the)": [
+        "^C5"
+    ],
+    "Georgia": [
+        "^4L"
+    ],
+    "Germany (Federal Republic of)": [
+        "^DK",
+        "^DA",
+        "^DD",
+        "^DJ",
+        "^DM",
+        "^Y5",
+        "^DN",
+        "^DQ",
+        "^DC",
+        "^DR",
+        "^Y3",
+        "^DI",
+        "^DE",
+        "^DB",
+        "^DF",
+        "^Y8",
+        "^Y4",
+        "^DH",
+        "^Y2",
+        "^DL",
+        "^Y6",
+        "^DP",
+        "^Y9",
+        "^DG",
+        "^Y7",
+        "^DO"
+    ],
+    "Ghana": [
+        "^9G"
+    ],
+    "Greece": [
+        "^SY",
+        "^J4",
+        "^SW",
+        "^SV",
+        "^SZ",
+        "^SX"
+    ],
+    "Grenada": [
+        "^J3"
+    ],
+    "Guatemala (Republic of)": [
+        "^TD",
+        "^TG"
+    ],
+    "Guinea (Republic of)": [
+        "^3X"
+    ],
+    "Guinea-Bissau (Republic of)": [
+        "^J5"
+    ],
+    "Guyana": [
+        "^8R"
+    ],
+    "Haiti (Republic of)": [
+        "^HH",
+        "^4V"
+    ],
+    "Honduras (Republic of)": [
+        "^HR",
+        "^HQ"
+    ],
+    "Hungary": [
+        "^HA",
+        "^HG"
+    ],
+    "Iceland": [
+        "^TF"
+    ],
+    "India (Republic of)": [
+        "^AW",
+        "^AV",
+        "^VV",
+        "^VU",
+        "^8U",
+        "^AT",
+        "^8T",
+        "^AU",
+        "^8W",
+        "^8Y",
+        "^VW",
+        "^8X",
+        "^8V",
+        "^VT"
+    ],
+    "Indonesia (Republic of)": [
+        "^YD",
+        "^8A",
+        "^PL",
+        "^8F",
+        "^YC",
+        "^8G",
+        "^8B",
+        "^8C",
+        "^JZ",
+        "^7C",
+        "^YG",
+        "^8I",
+        "^YH",
+        "^7H",
+        "^8E",
+        "^YB",
+        "^PO",
+        "^8D",
+        "^8H",
+        "^7I",
+        "^PN",
+        "^YF",
+        "^PK",
+        "^YE",
+        "^7E",
+        "^7F",
+        "^7D",
+        "^PM",
+        "^7A",
+        "^7B",
+        "^7G"
+    ],
+    "International Civil Aviation Organization": [
+        "^4Y"
+    ],
+    "Iran (Islamic Republic of)": [
+        "^9B",
+        "^9C",
+        "^EP",
+        "^EQ",
+        "^9D"
+    ],
+    "Iraq (Republic of)": [
+        "^HN",
+        "^YI"
+    ],
+    "Ireland": [
+        "^EJ",
+        "^EI"
+    ],
+    "Israel (State of)": [
+        "^4X",
+        "^4Z"
+    ],
+    "Italy": [
+        "^I"
+    ],
+    "Jamaica": [
+        "^6Y"
+    ],
+    "Japan": [
+        "^JL",
+        "^JP",
+        "^JJ",
+        "^7K",
+        "^JH",
+        "^7L",
+        "^7N",
+        "^JS",
+        "^JK",
+        "^JC",
+        "^JE",
+        "^8M",
+        "^8K",
+        "^8L",
+        "^JQ",
+        "^JA",
+        "^JR",
+        "^JF",
+        "^JB",
+        "^JO",
+        "^8N",
+        "^JD",
+        "^7J",
+        "^8J",
+        "^JI",
+        "^JN",
+        "^7M",
+        "^JG",
+        "^JM"
+    ],
+    "Jordan (Hashemite Kingdom of)": [
+        "^JY"
+    ],
+    "Kazakhstan (Republic of)": [
+        "^UO",
+        "^UP",
+        "^UN",
+        "^UQ"
+    ],
+    "Kenya (Republic of)": [
+        "^5Y",
+        "^5Z"
+    ],
+    "Kiribati (Republic of)": [
+        "^T3"
+    ],
+    "Korea (Republic of)": [
+        "^DS",
+        "^DT",
+        "^6K",
+        "^D9",
+        "^D8",
+        "^6M",
+        "^6L",
+        "^D7",
+        "^HL",
+        "^6N"
+    ],
+    "Kuwait (State of)": [
+        "^9K"
+    ],
+    "Kyrgyz Republic": [
+        "^EX"
+    ],
+    "Lao People's Democratic Republic": [
+        "^XW"
+    ],
+    "Latvia (Republic of)": [
+        "^YL"
+    ],
+    "Lebanon": [
+        "^OD"
+    ],
+    "Lesotho (Kingdom of)": [
+        "^7P"
+    ],
+    "Liberia (Republic of)": [
+        "^5L",
+        "^6Z",
+        "^5M",
+        "^A8",
+        "^D5",
+        "^EL"
+    ],
+    "Libya (State of)": [
+        "^5A"
+    ],
+    "Lithuania (Republic of)": [
+        "^LY"
+    ],
+    "Luxembourg": [
+        "^LX"
+    ],
+    "Madagascar (Republic of)": [
+        "^5S",
+        "^5R",
+        "^6X"
+    ],
+    "Malawi": [
+        "^7Q"
+    ],
+    "Malaysia": [
+        "^9M",
+        "^9W"
+    ],
+    "Maldives (Republic of)": [
+        "^8Q"
+    ],
+    "Mali (Republic of)": [
+        "^TZ"
+    ],
+    "Malta": [
+        "^9H"
+    ],
+    "Marshall Islands (Republic of the)": [
+        "^V7"
+    ],
+    "Mauritania (Islamic Republic of)": [
+        "^5T"
+    ],
+    "Mauritius (Republic of)": [
+        "^3B"
+    ],
+    "Mexico": [
+        "^6F",
+        "^XF",
+        "^6I",
+        "^XA",
+        "^4C",
+        "^XE",
+        "^XD",
+        "^6D",
+        "^XI",
+        "^6H",
+        "^4B",
+        "^XG",
+        "^XC",
+        "^XH",
+        "^6E",
+        "^6G",
+        "^6J",
+        "^XB",
+        "^4A"
+    ],
+    "Micronesia (Federated States of)": [
+        "^V6"
+    ],
+    "Moldova (Republic of)": [
+        "^ER"
+    ],
+    "Monaco (Principality of)": [
+        "^3A"
+    ],
+    "Mongolia": [
+        "^JT",
+        "^JU",
+        "^JV"
+    ],
+    "Montenegro": [
+        "^4O"
+    ],
+    "Morocco (Kingdom of)": [
+        "^5C",
+        "^5G",
+        "^5F",
+        "^5E",
+        "^CN",
+        "^5D"
+    ],
+    "Mozambique (Republic of)": [
+        "^C9",
+        "^C8"
+    ],
+    "Myanmar (Union of)": [
+        "^XY",
+        "^XZ"
+    ],
+    "Namibia (Republic of)": [
+        "^V5"
+    ],
+    "Nauru (Republic of)": [
+        "^C2"
+    ],
+    "Nepal (Federal Democratic Republic of)": [
+        "^9N"
+    ],
+    "Netherlands (Kingdom of the)": [
+        "^PC",
+        "^PI",
+        "^PB",
+        "^PE",
+        "^PH",
+        "^PD",
+        "^PA",
+        "^PG",
+        "^PF"
+    ],
+    "Netherlands (Kingdom of the) - Aruba": [
+        "^P4"
+    ],
+    "Netherlands (Kingdom of the) - Bonaire, Sint Eustatius and Saba or Netherlands (Kingdom of the) - Cura\u00e7ao or Netherlands (Kingdom of the) - Sint Maarten (Dutch part)": [
+        "^PJ"
+    ],
+    "New Zealand": [
+        "^ZK",
+        "^ZL",
+        "^ZM"
+    ],
+    "New Zealand - Cook Islands": [
+        "^E5"
+    ],
+    "New Zealand - Niue": [
+        "^E6"
+    ],
+    "Nicaragua": [
+        "^H6",
+        "^YN",
+        "^HT",
+        "^H7"
+    ],
+    "Niger (Republic of the)": [
+        "^5U"
+    ],
+    "Nigeria (Federal Republic of)": [
+        "^5O",
+        "^5N"
+    ],
+    "North Macedonia (Republic of)": [
+        "^Z3"
+    ],
+    "Norway": [
+        "^LD",
+        "^LI",
+        "^3Y",
+        "^LN",
+        "^LF",
+        "^LK",
+        "^LA",
+        "^JX",
+        "^LB",
+        "^LE",
+        "^LM",
+        "^LC",
+        "^LL",
+        "^LH",
+        "^JW",
+        "^LJ",
+        "^LG"
+    ],
+    "Oman (Sultanate of)": [
+        "^A4"
+    ],
+    "Pakistan (Islamic Republic of)": [
+        "^6S",
+        "^AR",
+        "^AP",
+        "^6R",
+        "^AQ",
+        "^AS",
+        "^6Q",
+        "^6P"
+    ],
+    "Palau (Republic of)": [
+        "^T8"
+    ],
+    "Panama (Republic of)": [
+        "^H8",
+        "^H3",
+        "^HP",
+        "^HO",
+        "^3E",
+        "^H9",
+        "^3F"
+    ],
+    "Papua New Guinea": [
+        "^P2"
+    ],
+    "Paraguay (Republic of)": [
+        "^ZP"
+    ],
+    "Peru": [
+        "^OA",
+        "^OB",
+        "^4T",
+        "^OC"
+    ],
+    "Philippines (Republic of the)": [
+        "^4D",
+        "^4I",
+        "^DV",
+        "^4F",
+        "^DZ",
+        "^DX",
+        "^4E",
+        "^4H",
+        "^DU",
+        "^DY",
+        "^4G",
+        "^DW"
+    ],
+    "Poland (Republic of)": [
+        "^SP",
+        "^SO",
+        "^SQ",
+        "^SR",
+        "^3Z",
+        "^SN",
+        "^HF"
+    ],
+    "Portugal": [
+        "^CT",
+        "^CS",
+        "^CR",
+        "^CU",
+        "^CQ"
+    ],
+    "Qatar (State of)": [
+        "^A7"
+    ],
+    "Republic of T\u00fcrkiye": [
+        "^TB",
+        "^TA",
+        "^TC",
+        "^YM"
+    ],
+    "Romania": [
+        "^YO",
+        "^YQ",
+        "^YR",
+        "^YP"
+    ],
+    "Russian Federation": [
+        "^R",
+        "^UG",
+        "^UA",
+        "^UD",
+        "^UH",
+        "^UC",
+        "^UI",
+        "^UE",
+        "^UB",
+        "^UF"
+    ],
+    "Rwanda (Republic of)": [
+        "^9X"
+    ],
+    "Saint Kitts and Nevis (Federation of)": [
+        "^V4"
+    ],
+    "Saint Lucia": [
+        "^J6"
+    ],
+    "Saint Vincent and the Grenadines": [
+        "^J8"
+    ],
+    "Samoa (Independent State of)": [
+        "^5W"
+    ],
+    "San Marino (Republic of)": [
+        "^T7"
+    ],
+    "Sao Tome and Principe (Democratic Republic of)": [
+        "^S9"
+    ],
+    "Saudi Arabia (Kingdom of)": [
+        "^HZ",
+        "^8Z",
+        "^7Z"
+    ],
+    "Senegal (Republic of)": [
+        "^6W",
+        "^6V"
+    ],
+    "Serbia (Republic of)": [
+        "^YT",
+        "^YU"
+    ],
+    "Seychelles (Republic of)": [
+        "^S7"
+    ],
+    "Sierra Leone": [
+        "^9L"
+    ],
+    "Singapore (Republic of)": [
+        "^S6",
+        "^9V"
+    ],
+    "Slovak Republic": [
+        "^OM"
+    ],
+    "Slovenia (Republic of)": [
+        "^S5"
+    ],
+    "Solomon Islands": [
+        "^H4"
+    ],
+    "Somalia (Federal Republic of)": [
+        "^T5",
+        "^6O"
+    ],
+    "South Africa (Republic of)": [
+        "^S8",
+        "^ZT",
+        "^ZS",
+        "^ZU",
+        "^ZR"
+    ],
+    "South Sudan (Republic of)": [
+        "^Z8"
+    ],
+    "Spain": [
+        "^EE",
+        "^EC",
+        "^EH",
+        "^ED",
+        "^AO",
+        "^EB",
+        "^EF",
+        "^EG",
+        "^AN",
+        "^EA",
+        "^AM"
+    ],
+    "Sri Lanka (Democratic Socialist Republic of)": [
+        "^4S",
+        "^4R",
+        "^4P",
+        "^4Q"
+    ],
+    "State of Palestine (In accordance with Resolution 99 Rev. Dubai, 2018)": [
+        "^E4"
+    ],
+    "Sudan (Republic of the)": [
+        "^6T",
+        "^6U",
+        "^ST",
+        "^SSZ",
+        "^SSN",
+        "^SS[N-Z]"
+    ],
+    "Suriname (Republic of)": [
+        "^PZ"
+    ],
+    "Sweden": [
+        "^SJ",
+        "^SG",
+        "^SI",
+        "^SL",
+        "^SD",
+        "^SH",
+        "^SM",
+        "^7S",
+        "^SF",
+        "^8S",
+        "^SA",
+        "^SB",
+        "^SK",
+        "^SE",
+        "^SC"
+    ],
+    "Switzerland (Confederation of)": [
+        "^HE",
+        "^HB"
+    ],
+    "Syrian Arab Republic": [
+        "^6C",
+        "^YK"
+    ],
+    "Tajikistan (Republic of)": [
+        "^EY"
+    ],
+    "Tanzania (United Republic of)": [
+        "^5I",
+        "^5H"
+    ],
+    "Thailand": [
+        "^E2",
+        "^HS"
+    ],
+    "Timor-Leste (Democratic Republic of)": [
+        "^4W"
+    ],
+    "Togolese Republic": [
+        "^5V"
+    ],
+    "Tonga (Kingdom of)": [
+        "^A3"
+    ],
+    "Trinidad and Tobago": [
+        "^9Z",
+        "^9Y"
+    ],
+    "Tunisia": [
+        "^3V",
+        "^TS"
+    ],
+    "Turkmenistan": [
+        "^EZ"
+    ],
+    "Tuvalu": [
+        "^T2"
+    ],
+    "Uganda (Republic of)": [
+        "^5X"
+    ],
+    "Ukraine": [
+        "^UU",
+        "^UY",
+        "^UV",
+        "^UZ",
+        "^UR",
+        "^UX",
+        "^EO",
+        "^US",
+        "^UW",
+        "^EN",
+        "^EM",
+        "^UT"
+    ],
+    "United Arab Emirates": [
+        "^A6"
+    ],
+    "United Kingdom of Great Britain and Northern Ireland": [
+        "^G",
+        "^M",
+        "^2",
+        "^ZB",
+        "^ZN",
+        "^ZQ",
+        "^VP",
+        "^ZJ",
+        "^ZI",
+        "^VS",
+        "^ZC",
+        "^ZH",
+        "^ZO",
+        "^ZG",
+        "^VQ",
+        "^ZF",
+        "^ZD",
+        "^ZE"
+    ],
+    "United Nations": [
+        "^4U"
+    ],
+    "United States of America": [
+        "^N",
+        "^W",
+        "^K",
+        "^AD",
+        "^AF",
+        "^AG",
+        "^AC",
+        "^AE",
+        "^AB",
+        "^AL",
+        "^AK",
+        "^AH",
+        "^AI",
+        "^AA",
+        "^AJ"
+    ],
+    "Uruguay (Eastern Republic of)": [
+        "^CX",
+        "^CV",
+        "^CW"
+    ],
+    "Uzbekistan (Republic of)": [
+        "^UJ",
+        "^UK",
+        "^UL",
+        "^UM"
+    ],
+    "Vanuatu (Republic of)": [
+        "^YJ"
+    ],
+    "Vatican City State": [
+        "^HV"
+    ],
+    "Venezuela (Bolivarian Republic of)": [
+        "^YV",
+        "^4M",
+        "^YY",
+        "^YX",
+        "^YW"
+    ],
+    "Viet Nam (Socialist Republic of)": [
+        "^3W",
+        "^XV"
+    ],
+    "World Meteorological Organization": [
+        "^C7"
+    ],
+    "Yemen (Republic of)": [
+        "^7O"
+    ],
+    "Zambia (Republic of)": [
+        "^9I",
+        "^9J"
+    ],
+    "Zimbabwe (Republic of)": [
+        "^Z2"
+    ]
+}

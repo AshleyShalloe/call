@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8" />
+    <meta name="description" content="A lookup for the country associated with an amateur radio callsign." />
+    <title>Call</title>
+    <link rel="icon" href="favicon.svg" />
+    <style>
+        html {
+            font-family: Arial, sans-serif;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div>
+        <input type="text" oninput="checkCallsignAndDisplayResult(this.value)" id="callsignInput"></input>
+        <div id="result"></div>
+    </div>
+
+</body>
+<script>
+    'use strict'
+    async function initCountryJson() {
+        await fetch(`res/callsign_ref.json`)
+            .then(res => res.json())
+            .then((data) => { countryData = data })
+            .catch(err => { throw err });
+    }
+
+    function checkCallsign(inputCallsign) {
+        for (var country in countryData) {
+            var check = countryData[country].map(
+                x => new RegExp(x)
+            ).map(
+                x => inputCallsign.toUpperCase().match(x)
+            )
+
+            if (check.some(x => x)){
+                return country
+            }
+        }
+    }
+
+    function checkCallsignAndDisplayResult(inputCallsign){
+        resultDiv.innerHTML = checkCallsign(inputCallsign) || ""
+    }
+
+    // globals
+    var countryData
+    const resultDiv = document.getElementById("result")
+    const callsignInput = document.getElementById("callsignInput")
+
+    // init
+    async function init() {
+        initCountryJson()
+        callsignInput.value = "" // blank it out
+    }
+
+    init();
+
+</script>
+
+</html>
