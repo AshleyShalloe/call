@@ -82,17 +82,26 @@
     }
 
     function checkCallsign(inputCallsign) {
+        var matchCountries = []
+        
         for (var country in countryData) {
-            var check = countryData[country].map(
+            var check = countryData[country].callsigns.map(
                 x => new RegExp(x)
             ).map(
                 x => inputCallsign.toUpperCase().match(x)
             )
 
-            if (check.some(x => x)) {
-                return country
-            }
+            check.filter(x => x).forEach(x => {
+                matchCountries.push([country, x])
+            })
         }
+
+        // prefer the most specific (i.e. longest) match
+        // some annoying nested array of array operations
+        var longestCallsignPrefixLength = Math.max(...matchCountries.map(x => x[1]).flat().map(x => x.length))
+        matchCountries = matchCountries.filter(x => (Math.max(...x[1].map(x => x.length)) == longestCallsignPrefixLength))
+
+        return matchCountries.join(" / ")
     }
 
     function checkCallsignAndDisplayResult(inputCallsign) {
