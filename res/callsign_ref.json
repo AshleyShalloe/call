@@ -561,7 +561,7 @@
         ]
     },
     "San Felix & San Ambrosio": {
-        "region": "-26.28",
+        "region": "SA",
         "callsigns": [
             "^3G0X",
             "^CA0X",
@@ -1091,7 +1091,7 @@
         ]
     },
     "Amsterdam & St. Paul Is.": {
-        "region": "-37.85",
+        "region": "AF",
         "callsigns": [
             "^FT0Z",
             "^FT1Z",
@@ -1115,14 +1115,6 @@
         "region": "SA",
         "callsigns": [
             "^FY"
-        ]
-    },
-    "England": {
-        "region": "EU",
-        "callsigns": [
-            "^2E",
-            "^G",
-            "^M"
         ]
     },
     "Isle of Man": {
@@ -1261,7 +1253,7 @@
         ]
     },
     "San Andres & Providencia": {
-        "region": " 12.55",
+        "region": "NA",
         "callsigns": [
             "^5J0",
             "^5K0",
@@ -1595,7 +1587,7 @@
         ]
     },
     "Palmyra & Jarvis Islands": {
-        "region": "  5.87",
+        "region": "OC",
         "callsigns": [
             "^AH5",
             "^KH5",
@@ -2300,7 +2292,7 @@
         ]
     },
     "Central African Republic": {
-        "region": "  6.75",
+        "region": "AF",
         "callsigns": [
             "^TL"
         ]
@@ -3062,7 +3054,7 @@
         ]
     },
     "Tristan da Cunha & Gough": {
-        "region": "-37.13",
+        "region": "AF",
         "callsigns": [
             "^ZD9"
         ]
@@ -3125,6 +3117,21 @@
             "^ZS",
             "^ZT",
             "^ZU"
+        ]
+    },
+    "United Kingdom of Great Britain and Northern Ireland": {
+        "region": "EU",
+        "callsigns": [
+            "^G",
+            "^M"
+        ]
+    },
+    "England": {
+        "region": "EU",
+        "callsigns": [
+            "^2E",
+            "^GE",
+            "^ME"
         ]
     }
 }

@@ -99,7 +99,10 @@
         // prefer the most specific (i.e. longest) match
         // some annoying nested array of array operations
         var longestCallsignPrefixLength = Math.max(...matchCountries.map(x => x[1]).flat().map(x => x.length))
-        matchCountries = matchCountries.filter(x => (Math.max(...x[1].map(x => x.length)) == longestCallsignPrefixLength))
+        matchCountries = matchCountries
+            .filter(x => (Math.max(...x[1].map(x => x.length)) == longestCallsignPrefixLength))
+            .map(x => x[0])
+            .map(x => `${x} (${regionAbbreviationLookup[countryData[x].region]})`)
 
         return matchCountries.join(" / ")
     }
@@ -112,6 +115,14 @@
     var countryData
     const resultDiv = document.getElementById("result")
     const callsignInput = document.getElementById("callsignInput")
+    const regionAbbreviationLookup = {
+        "AS": "Asia",
+        "OC": "Oceania",
+        "EU": "Europe",
+        "NA": "North America",
+        "SA": "South America",
+        "AF": "Africa"
+    }
 
     // init
     async function init() {
